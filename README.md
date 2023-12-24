@@ -6,7 +6,7 @@ Desafio de projeto para realizar um ataque phishing do tipo harvester de credenc
 
 - Acesso root: ``` sudo su ```
 - Baixando httrack: ```apt install httrack```
-- Clonando a página: ```httrack https://www.facebook.com -O /home/kali/facebook ```
+- Clonando a página: ```httrack https://www.facebook.com -O /home/lush/facebook ```
 - Iniciando o setoolkit: ``` setoolkit ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
