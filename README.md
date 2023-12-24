@@ -13,7 +13,7 @@ Desafio de projeto para realizar um ataque phishing do tipo harvester de credenc
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Cloner Import ```
 - ```Enter```
-- Passando o caminho: ``` /home/kali/facebook/m.facebook.com/```
+- Passando o caminho: ``` /home/lush/facebook/m.facebook.com/```
 - Site clonado: ```m.facebook.com```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - Acessar utilizando ```ip.do.host:porta_host```
